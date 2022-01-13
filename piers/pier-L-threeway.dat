@@ -7,7 +7,7 @@ max_weight=15
 intro_year=1860
 intro_month=1
 
-above_way_ribi=0x7
+above_way_ribi=0xD
 below_way_ribi=0xF
 
 base_mask=0x04040404
@@ -16,6 +16,8 @@ support_mask=0x04040404
 
 keep_dry=1
 sub_obj_mask=0x02
+
+auto_group=0x02
 
 cursor=pier-L-threeway.0.5
 icon=> pier-L-threeway.0.4

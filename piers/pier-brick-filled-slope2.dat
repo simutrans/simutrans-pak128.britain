@@ -3,13 +3,13 @@ name=brickfilledfilledslope2
 cost=7800
 maintenance=156
 
-above_way_ribi=0x7
+above_way_ribi=0x5
 below_way_ribi=0x0
 
 above_slope=72
 
 base_mask=0x01390139
-middle_mask=0x01390139
+middle_mask=0x073F073F
 support_mask=0x00000000
 
 bottom_only=1
